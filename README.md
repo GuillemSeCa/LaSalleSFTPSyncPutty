@@ -49,7 +49,7 @@ This should appear:
 ![](3rd_Step.png) 
 
 We will search "sftp" and click on the following option:
-![](4rd_Step.png) 
+![](4th_Step.png) 
 
 In the bottom-right part of the window it will appear the following **Notification**
 ![](5th_Step.png) 
