@@ -25,11 +25,11 @@ sudo apt install code
 ## Install the SFTP extension in VSCode
 To install the SFTP extension we will search "SFTP" in the extensions search engine as shown:
 ### 1-
-![](1st_Step.jpg)
+![](assets/1st_Step.jpg)
 
 
 ### 2- 
-![](2nd_Step.jpg) 
+![](assets/2nd_Step.jpg) 
 
 
 Or by entering the following link:
@@ -53,15 +53,15 @@ or
 <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 
 This should appear:
-![](3rd_Step.png) 
+![](assets/3rd_Step.png) 
 
 
 We will search "sftp" and click on the following option:
-![](4th_Step.png) 
+![](assets/4th_Step.png) 
 
 
 In the bottom-right part of the window it will appear the following **Notification**
-![](5th_Step.png) 
+![](assets/5th_Step.png) 
 
 
 We will have to select a folder where the files will be saved (You can create, for example, a **Folder** called **TempFiles** in the **Documents**  and select that file).
@@ -73,26 +73,26 @@ or
 <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 
 This should appear:
-![](3rd_Step.png) 
+![](assets/3rd_Step.png) 
 
 
 We will search "sftp" and click on the following option:
-![](4th_Step.png) 
+![](assets/4th_Step.png) 
 
 
 A **.json** file will open.
-![](6th_Step.PNG) 
+![](assets/6th_Step.PNG) 
 
 
 If we are planning to connect to **La Salle Server** we will put the following information. **IMPORTANT!** instead of "your.login" you will have to put your EStudy login.
-![](7th_Step.PNG) 
+![](assets/7th_Step.PNG) 
 
 
 When we are done, we press:
 <kbd>Ctrl</kbd> + <kbd>S</kbd> or <kbd>Command</kbd> + <kbd>S</kbd> to save the Config file. 
 
 At that moment a new Icon will appear at the left-hand side, we will click in it. 
-![](8thStep.jpg) 
+![](assets/8thStep.jpg) 
 
 
 Once we clicket we will click on "My Server" and it will ask us for the password (it is the same as the EStudy). When we finish putting the password all the files will show up. 
