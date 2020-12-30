@@ -52,7 +52,7 @@ We will search "sftp" and click on the following option:
 ![](4rd_Step.png) 
 
 In the bottom-right part of the window it will appear the following **Notification**
-![](5rd_Step.png) 
+![](5th_Step.png) 
 We will have to select a folder where the files will be saved (You can create, for example, a **Folder** called **TempFiles** in the **Documents**  and select that file).
 
 Once the folder is selected...
