@@ -2,6 +2,8 @@
 
 In this repo I will explain how I use the SFTP extension on VSCode to help me code faster and upload the files easier and without using VIM.
 
+### **CONSIDER GIVING A STAR TO THE REPO :)**
+
 **IMPORTANT:** I am considering that anyone that do the following steps has already installed, setup and has the GlobalProtect connected to the server. 
 
 ## How to install Visual Studio Code?
