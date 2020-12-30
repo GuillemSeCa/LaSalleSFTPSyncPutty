@@ -1,6 +1,8 @@
 # How to connect Visual Studio Code with a SFTP (La Salle)
 
+In this repo I will explain how I use the SFTP extension on VSCode to help me code faster and upload the files easier and without using VIM.
 
+**IMPORTANT:** I am considering that anyone that do the following steps has already installed, setup and has the GlobalProtect connected to the server. 
 
 ## How to install Visual Studio Code?
 First of all, we will need to download Visual Studio Code (VSCode).
